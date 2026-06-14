@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* WAJIB: include filament styles via plugin layer */
+@layer base {
+    [x-cloak] {
+        display: none !important;
+    }
+}

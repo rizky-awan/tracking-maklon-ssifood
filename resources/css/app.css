@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fi-ta-row {
+    background-color: #f8fafc;
+}
+
+.fi-sidebar {
+    background: #1e293b !important;
+}
